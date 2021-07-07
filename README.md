@@ -1,4 +1,4 @@
-Presentation is found in the Power BI file soccer.pbix
+<b>Presentation is found in the Power BI file soccer.pbix</b>
 
 This project explores the historical competitiveness of European soccer leagues over a 25 year period between 1995-2019.
 For the sake of consistency, the project exclusively focuses on domestic competition, and not competitions such as the UEFA Champion's League or UEFA Cup/Europa League.
