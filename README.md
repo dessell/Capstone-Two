@@ -3,8 +3,8 @@
 <p>This project explores the historical competitiveness of European soccer leagues over a 24 year period between 1995-2018. </p>
 <p>While the data contains a 25th year, the 2019/2020 season is incomplete due to the Covid-19 pandemic halting league play. </p>
 <p>For the sake of consistency, the project exclusively focuses on domestic competition, and not competitions such as the UEFA Champion's League or UEFA Cup/Europa League.</p>
-<ul>As a top flight league exists for every country in Europe, the scope of research focuses on what are traditionally the five most prestigious league competitions:
-
+<p>As a top flight league exists for every country in Europe, the scope of research focuses on what are traditionally the five most prestigious league competitions:</p>
+<ul>
   <li>English Premier League </li>
   <li>Spain's La Liga</li>
   <li>Italian Serie A</li>
