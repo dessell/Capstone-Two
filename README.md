@@ -1,3 +1,5 @@
+Presentation is found in the Power BI file soccer.pbix
+
 This project explores the historical competitiveness of European soccer leagues over a 25 year period between 1995-2019.
 For the sake of consistency, the project exclusively focuses on domestic competition, and not competitions such as the UEFA Champion's League or UEFA Cup/Europa League.
 As a top flight league exists for every country in Europe, the scope of research focuses on what are traditionally the five most prestigious league competitions:
