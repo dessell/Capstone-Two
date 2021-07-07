@@ -10,7 +10,7 @@
   <li>Italian Serie A</li>
   <li>German Bundesliga</li>
   <li>French Ligue 1</li>
-
+</ul>
 <p>The research finds a growing divide over time between the top-tier clubs in each league versus the rest of the field. This divide not only includes margin of victory over 
 the next best teams, but a smaller number of unique winners in the last decade. The results indicate a lack of competitiveness throughout the top European leagues, which may
 incentivize the elite clubs (along with the obvious financial implications) to break away from domestic leagues and create an exclusive continental super league.</p>
